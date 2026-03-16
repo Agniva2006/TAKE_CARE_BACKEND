@@ -13,7 +13,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 NUM_CLASSES = 7
 
 model = timm.create_model(
-"efficientnet_b0",
+"efficientnet_b4",
 pretrained=False,
 num_classes=NUM_CLASSES
 )
