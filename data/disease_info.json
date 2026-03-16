@@ -1,0 +1,70 @@
+{
+"Actinic Keratoses": {
+"advice": "Actinic keratoses are rough, scaly patches caused by long-term sun exposure. Protect your skin from UV radiation by wearing sunscreen (SPF 30+), protective clothing, and avoiding direct sun during peak hours. Monitor the lesion regularly because some cases may progress to squamous cell carcinoma.",
+"medicines": [
+"Fluorouracil Cream",
+"Imiquimod Cream",
+"Diclofenac Sodium Gel"
+],
+"doctor_advice": "Consult a dermatologist if the lesion grows rapidly, bleeds, or becomes painful. Early treatment prevents potential progression to skin cancer."
+},
+
+"Basal Cell Carcinoma": {
+"advice": "Basal cell carcinoma is the most common form of skin cancer and usually develops due to prolonged sun exposure. Avoid tanning beds, use broad-spectrum sunscreen daily, and regularly check for new or changing skin lesions.",
+"medicines": [
+"Imiquimod Cream",
+"Fluorouracil Cream",
+"Vismodegib"
+],
+"doctor_advice": "Medical evaluation is necessary. Dermatologists may recommend procedures such as cryotherapy, Mohs surgery, or photodynamic therapy."
+},
+
+"Benign Keratosis": {
+"advice": "Benign keratosis lesions are non-cancerous skin growths that commonly appear with aging. Maintain proper skin hygiene and protect skin from excessive sunlight to prevent irritation or worsening.",
+"medicines": [
+"Salicylic Acid",
+"Topical Retinoids",
+"Cryotherapy Treatment"
+],
+"doctor_advice": "Consult a dermatologist if the lesion changes color, size, or texture, as similar appearances can sometimes mimic malignant lesions."
+},
+
+"Dermatofibroma": {
+"advice": "Dermatofibromas are harmless fibrous skin nodules often caused by minor injuries such as insect bites. Avoid scratching the area and maintain skin hygiene.",
+"medicines": [
+"Topical Corticosteroids",
+"Tacrolimus Ointment"
+],
+"doctor_advice": "Treatment is usually unnecessary unless the lesion becomes painful or cosmetically bothersome. Surgical removal may be recommended in rare cases."
+},
+
+"Melanoma": {
+"advice": "Melanoma is a serious type of skin cancer that develops in pigment-producing cells. Early detection is critical. Follow the ABCDE rule (Asymmetry, Border irregularity, Color variation, Diameter >6mm, Evolving lesions) to monitor suspicious moles.",
+"medicines": [
+"Pembrolizumab",
+"Nivolumab",
+"Dabrafenib"
+],
+"doctor_advice": "Seek immediate medical attention. Dermatologists typically recommend biopsy and possible surgical removal or immunotherapy depending on severity."
+},
+
+"Melanocytic Nevus": {
+"advice": "Melanocytic nevi (moles) are common and usually benign. Avoid excessive sun exposure and monitor moles for unusual changes in shape, size, or color.",
+"medicines": [
+"No medication required in most cases",
+"Topical Sunscreen",
+"Retinoid Cream (for cosmetic management)"
+],
+"doctor_advice": "If the mole shows sudden growth, bleeding, itching, or color change, consult a dermatologist to rule out melanoma."
+},
+
+"Vascular Lesion": {
+"advice": "Vascular lesions are skin abnormalities involving blood vessels, such as hemangiomas or angiomas. Most are harmless but should be monitored for growth or bleeding.",
+"medicines": [
+"Propranolol",
+"Timolol Gel",
+"Laser Therapy"
+],
+"doctor_advice": "Consult a dermatologist if the lesion enlarges, becomes painful, or causes cosmetic concerns."
+}
+}
